@@ -181,7 +181,7 @@ Because in Belarusian/Russian we have one letter 't' (атрыбутыка/ат�
 
 ### Carthage
 
-Add `github "psharanda/Atributika"` to your `Cartfile`
+Add `github "mehroozkhan50/Atributika"` to your `Cartfile`
 
 ### CocoaPods
 Atributika is available through [CocoaPods](http://cocoapods.org). To install
